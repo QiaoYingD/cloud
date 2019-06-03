@@ -1,0 +1,13 @@
+-------------------------------------------------------------------------------
+Test set: com.imooc.product.ProductApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 3, Skipped: 0, Time elapsed: 0.101 sec <<< FAILURE! - in com.imooc.product.ProductApplicationTests
+initializationError(com.imooc.product.ProductApplicationTests)  Time elapsed: 0.008 sec  <<< ERROR!
+java.lang.Exception: The class com.imooc.product.ProductApplicationTests is not public.
+
+initializationError(com.imooc.product.ProductApplicationTests)  Time elapsed: 0 sec  <<< ERROR!
+java.lang.Exception: Test class should have exactly one public constructor
+
+initializationError(com.imooc.product.ProductApplicationTests)  Time elapsed: 0 sec  <<< ERROR!
+java.lang.Exception: Method contextLoads() should be public
+
